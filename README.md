@@ -6,5 +6,6 @@ Foundations of Data Science Project - Diabetes Analysis
 
 In this case study, I saw three different ways of building recommendation systems:
 rank-based using averages
-similarity-based collaborative filtering
-model-based (matrix factorization) collaborative filtering
+- similarity-based 
+- collaborative filtering
+- model-based (matrix factorization) collaborative filtering
