@@ -9,3 +9,6 @@ rank-based using averages
 - similarity-based 
 - collaborative filtering
 - model-based (matrix factorization) collaborative filtering
+
+## [Foundations of Data Science Project - Diabetes Analysis](https://github.com/dynamique1/Jabiodun_Portfolio/blob/main/Notebook%2BTemplate%2B-%2BPima%2BDiabetes%2BAnalysis.ipynb) 
+Here, we are analyzing different aspects of Diabetes in the Pima Diabetes Analysis by doing **Exploratory Data Analysis** 
