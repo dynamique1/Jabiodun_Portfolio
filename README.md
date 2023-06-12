@@ -1,6 +1,5 @@
 # Jabiodun_Portfolio
-Analytics Portfolio 
-Foundations of Data Science Project - Diabetes Analysis 
+These are some of my personal and academy projects: 
 
 ## [EDA on Nigeria's World Bank Economic Data](https://github.com/dynamique1/Jabiodun_Portfolio/blob/main/EDA%20WORLD%20BANK%20DATA_NIGERIA%20.ipynb)
 
