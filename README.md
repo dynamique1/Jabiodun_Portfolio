@@ -1,7 +1,7 @@
 # Jabiodun_Portfolio
 These are some of my personal and academy projects: 
 
-## [EDA on Nigeria's World Bank Economic Data](https://github.com/dynamique1/Jabiodun_Portfolio/blob/main/EDA%20WORLD%20BANK%20DATA_NIGERIA%20.ipynb)
+## [EDA on Nigeria's World Bank Economic Data](EDA WORLD BANK DATA_NIGERIA .html)
 
 The Objecitve of this analysis is to practise some data anaysis using python programming language on world bank's data on Nigeria. This will involve:
 Data sourcing
